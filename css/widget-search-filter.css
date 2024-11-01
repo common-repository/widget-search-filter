@@ -1,0 +1,11 @@
+/**
+ * Widget Search Filter CSS
+ *
+ * @since 1.0.0
+ *
+ * @package Widget Search Filter
+ */
+
+.js .widgets-holder-wrap.closed .widget {
+	display: none !important;
+}
